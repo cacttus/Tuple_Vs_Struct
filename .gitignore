@@ -21,6 +21,7 @@
 /tmp/
 /.vs/
 /logs/
+/x64/
 *.vcxproj.filters
 *.vcxproj.user
 *.exe
